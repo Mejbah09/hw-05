@@ -1,0 +1,44 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+
+
+#mona_hed{
+       padding:30px;
+       color:black;
+       background-color: white;
+       background-image:
+       background-repeat: no-repeat;
+       background-size: cover;
+       width:500px;
+       height: fit-content;
+       padding:30 30 30 30;
+       text-align: justify;
+       border: 20px solid red;
+       border-radius: 20px;
+       font-size: 50px;
+       font-family: serif;
+       margin:auto;
+
+}
+ .mona{
+    padding:60px 30px 30px 30px;
+    color:white;
+    background-color: black;
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAI4AagMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAQIDBQYAB//EADcQAAEEAQIEBAQDBgcAAAAAAAEAAgMRBBIhBTFBURMiYXEGMoGRobHBFCNCUtHwBxYzU4KS4f/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACARAAICAgIDAQEAAAAAAAAAAAABAhEDEgQhEzFBIlH/2gAMAwEAAhEDEQA/AMQ4+UH0UTpCFIW+RvqAoXNQ5GdCF7jvaXxCuDNkpZ91O49Tg89z912ok80oYSeSHychsDvDYzxJeVDop3ZajfokN2nBxAVbPlZUcrmOIaW7EBoCbHxF4NTAOHcbFO2ynBotPEK7WUyNzZWCSM209U6insZ0d4h7pQ8nukLfROY2gjYB2pw6oTWe6NDdlWk7lNOy4Ky48pjYQf4QmFnXuhoJy9nLkdKJjlY15DjQ9VnP2ShQwkckvhEG9039sawbt3PIAouF7ZYmy2aO2/dZttDoCypBjQOkPMA0O5W1+FOC4cPDIJZIw+eRoe955klYDjzrfG0Har/Fb7gPF3eLi4bsOSJjxTdTHWKsbmq6d1zcnZwVHdxYpdhHHeF4MuO8GEE1zXkvE8V2LkvZR03svSM74gyXy5TosInFgfoD9LiXn0DQVjPiHJny2Ryy4z4GOPlLhVo4m8XT9GmdRaKvhM+jJ8MnyybfXp/RXrWtPULLtOiZruzgfxV41+oruaPOmix8C+aUQeqmwniWECt2ityp3M2Wbk7EkCiHcdlSP+d3ur98tclQv+d3utIFQpCiYRYoLQS4uPVMfORe2x5G7Q5s3fRdrBZpq6VNdkji8uGqySn/ALbKIxGd2g2PRCFxqhsOy5rC7qikBPkzeLTzzDQBfSl6/h8TxX8Nx8h7o4wYw58hoAbdSvHHAi29VrPhTObk4L+HiYsn0FnhEgNlH1B6Li5WPaKf8PQ40kujW8Jn4dkYEksJimj1kbgHfn+qwnxrmsyMoRRVoaenJWczRwdkgntv8rRINI+wAWNzpzkTudexNqOPi/ey9F5p/nUGd8/urWOWI7+IR/xVU4IhvSgvQPPmXGLlsgcSyUbijqaiHcXbsCQfUDkqGndQUu6WiZBcTcShJpgc43z5BBEhxvvuhWhTg7BVSRUCEAm1FRux3RxjDmWNjSbjwtLyXb6Ty7qZTRXjYxsba8w+6mZFHpvTQpTujAa6R3yjkq9zXNDd9niqUKVleKhctlOBHIhCtLmP1McWuG4I6KaiTW+woLZfCvwUcp0eTxIfu3biIfqoyZY443I1hjcukZbIx86aOOSSR8rHNtpJvZNi4ZMebDS9e/yzitjbHG2o28hXIKDL4NDDE6mg7cqXGuaqpI6Xx/6eMvBukRDqLRp7J+TFpmkJFU4j81FiSaSW9D+a9FStHFOHdCua+yUrfFJ23RscTpSQHNrrspshgaGtDAAALrql5KI8dgccer5xQSgmlMbc66UIOypOx6pBEY/dA2oWvdFOXt32qinQuGsg3R2AHRSuj38gv3KifTZvD9II/aYJmgOttmg0hAZ0zRJ4cYG3P0Tsl8kLRuG6v5aVcX7EndTCH0Un8Nd8BcGh4rJPLI4F8bwA29wD/FXXt9F6sxjMaMRgDbkvCeEcQn4dkRz4kropW7BzevcHuFtcH/EGYvYeI4jZdIrVAdNn2P8AVcPLwZJS2XaOrBkgo0z0gUWlVXFnBsEjugaSVTD/ABA4S5guLMZ3Bjb+jlkviX4zfmudFjMLYL+UmtXuR+QXNj42WT7RtPLCK9lJmYkuRK9sTXabvUdz7/8AqrZsdsRrxWEjs4H8l2TnT5IqSQlo5MApo+gQxvmvahFpHmzkmHY2aY6bK0OHSiQjWZELyBTge1/kqM890XjuD2V1HdEo/RRdlwY2Ob5AR7oL7J0Uz2CnGx0TdPunBClYwscHXRPWhzUll43boF9XJk5N2CeQ/JCOc++aqUbCMqH5T/Pp28vUIRx5hTE3vYN9bUE3p9kl0Dd9iteRuDRAUrZiG6QUMDsnB3NNoVhDpyBsdz1CGfISd1xdum8zZTSQNse3egpmBoFnn6qBpoFSDdDBCuo9B9FJiV42n+ZRHbouYaIcOhRVgWWmhsNk4MFfK/8ABNbNG4VRHspLb0SVg2RZJGs72O6GbG6WTSwBzu3ZSZBouXcNla2a3kDzAklEvVoI+yY8LyNre0PoEtFuI7cuX1pAZMT4naJALHYgrTDMinjaC4hpJLGNb8258xvmegHK1ZfDvD8Hj+U6LJDhiRNDy1poyE8rPPv+C5/M4pykbeNSdI8/Aorl6nxr4J4K+MHBikxnj/bkJv6OtYzi3wrmYDDJGROwHehTgPbqjHysWT0wnxskDOnuuJSuaQSHbEGiOySl1IwHAX7BSNqtkxhrnt6p+r1SY0KbpNBIKXX7H6ppJJQJhUZ5IkHYISI+UWiAdhuqQDMrryv0QoOk9h1Rk4vf03Qr22SpHRwneKpx5beivfhyLjPiNkwIy2N/l8SQ6Wn27/S1nXCmn2W74JlNfJEdRmmPM9IWDYNaO5r7X2XPyHrDpG+CO0vYficUmiL4cx4MzCQ4Ao9ueZo5I8fwnZOnVHHIa1LK/GeZjftrH4srTK0VJoOyg4dx3HdGMfiRc6MbxZMe0sLv1C4Fx9o7pHZ5UpasL44OGcVYS5hw+IQnTNA9nm+n90qFvCcb5TkSl3MeUCx/fqiOJZ54vKw5BjGVG3THO0UHgd1WOy5L0vFEdj1XdijJRpM5cri3Ye/h2HHbGC5Bv/qEah6ICVkI2Y2j6qKfJfKGiR1lvIqEyEnck+61jGS9swk18Q5wbvSYLtddlKPVakE8fJEg7DkhY/lCnv2TAIkbzBQr46OxIVlPHpJruofDs81l2aUVzovSz1tE4efk4cc0cLy3W2rHNSSRb+ij8MHohrZUw7T6BY7s1V9bFp3mPMN/6qcQjWB3SvgoXYpVQgQs/uk3wz3+6JMQKVsQIcqECEd6+6Qt9QijD7JwhHhkpkgYG6WiQEQIdnEVzpd4RB6JBQ2MeUKcNNckxrKU3h+32QB//9k=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:500px;
+    height: fit-content;
+    padding:30 30 30 30;
+    text-align: justify;
+    border: 20px groove red;
+    border-radius: 20px;
+    font-size: 15px;
+    font-family: sans-serif;
+    margin:auto;
+
+}
